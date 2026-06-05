@@ -1,4 +1,4 @@
-# Hello, I'm Cloud! 👋
+# Hello, I'm Red/Cloud! 👋
 ### Incoming First-Year Web Development Student
 
 Welcome to my profile! I am getting ready to start my very first year of college for Web Development. I am starting completely from scratch, and I am excited to learn how websites are built, styled, and brought to life. 
