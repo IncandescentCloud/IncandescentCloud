@@ -41,6 +41,7 @@ I would love to connect with classmates, mentors, or anyone else on a similar co
 📬 **Email:** [importanceofrickert@gmail.com](mailto:importanceofrickert@gmail.com)
 
 <br/>
-🔗 **GitHub:** [://github.com](https://://github.com)
+
+🔗 **GitHub:** [://github.com](https://github.com/IncandescentCloud)
 
 <br/>
