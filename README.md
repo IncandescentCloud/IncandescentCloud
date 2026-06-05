@@ -42,8 +42,6 @@ I would love to connect with classmates, mentors, or anyone else on a similar co
 
 <br/>
 
-<a href="https://github.com">
-  <img align="left" alt="GitHub" width="24px" src="https://jsdelivr.net" />
-</a>
+🔗 **GitHub:** [github.com](https://github.com)
 
 <br/>
